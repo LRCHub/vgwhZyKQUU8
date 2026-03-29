@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "マジでハイ",
+  "base_artist": "KOPERU、KennyDoes、KBD、peko、ふぁんく、R-指定、KZ",
+  "createdAt": "2026-03-29T14:59:03.520026Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "マジでハイ",
+      "artist": "KZ",
+      "has_synced": true,
+      "path": "select/01_マジでハイ_KZ.lrc"
+    }
+  ]
+}
